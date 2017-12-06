@@ -1,0 +1,11 @@
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\bin\Debug\netcoreapp2.0\Neo4jAspCore.deps.json
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\bin\Debug\netcoreapp2.0\Neo4jAspCore.runtimeconfig.json
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\bin\Debug\netcoreapp2.0\Neo4jAspCore.runtimeconfig.dev.json
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\bin\Debug\netcoreapp2.0\Neo4jAspCore.dll
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\obj\Debug\netcoreapp2.0\Neo4jAspCore.csprojResolveAssemblyReference.cache
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\obj\Debug\netcoreapp2.0\Neo4jAspCore.csproj.CoreCompileInputs.cache
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\obj\Debug\netcoreapp2.0\Neo4jAspCore.AssemblyInfoInputs.cache
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\obj\Debug\netcoreapp2.0\Neo4jAspCore.AssemblyInfo.cs
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\bin\Debug\netcoreapp2.0\Neo4jAspCore.pdb
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\obj\Debug\netcoreapp2.0\Neo4jAspCore.dll
+c:\users\jhona\source\repos\Neo4jAspCore\Neo4jAspCore\obj\Debug\netcoreapp2.0\Neo4jAspCore.pdb
